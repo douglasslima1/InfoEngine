@@ -1,7 +1,0 @@
-index.php
-InfoEngine
-grid_dash_abertos_semana
-SIM
-cons
-grid_dash_abertos_semana
-LigMd5

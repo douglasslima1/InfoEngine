@@ -1,7 +1,0 @@
-index.php
-InfoEngine
-pdfreport_nota_servico
-SIM
-reportpdf
-pdfreport_nota_servico
-LigMd5

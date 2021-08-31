@@ -1,7 +1,0 @@
-index.php
-InfoEngine
-grid_tbl_marcas
-SIM
-cons
-grid_tbl_marcas
-LigMd5

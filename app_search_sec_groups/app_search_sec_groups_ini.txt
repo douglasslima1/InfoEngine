@@ -1,7 +1,0 @@
-index.php
-InfoEngine
-app_search_sec_groups
-SIM
-filter
-app_search_sec_groups
-LigMd5

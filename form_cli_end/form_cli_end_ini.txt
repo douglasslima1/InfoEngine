@@ -1,7 +1,0 @@
-index.php
-InfoEngine
-form_cli_end
-SIM
-form
-form_cli_end
-LigMd5

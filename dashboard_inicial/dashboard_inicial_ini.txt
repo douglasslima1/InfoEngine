@@ -1,7 +1,0 @@
-index.php
-InfoEngine
-dashboard_inicial
-SIM
-container
-dashboard_inicial
-LigMd5

@@ -1,7 +1,0 @@
-index.php
-InfoEngine
-form_cliente
-SIM
-form
-form_cliente
-LigMd5
